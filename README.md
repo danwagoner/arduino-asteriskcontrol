@@ -11,4 +11,4 @@ An AGI script written to connect to your Arduino and send control messages. This
 * Date: 03/11/09
 
 ### Details
-http://www.nerdybynature.com/2009/03/13/using-asterisk-to-controll-your-arduino/
+https://nerdybynature.com/arduino/2009/03/13/using-asterisk-to-control-your-arduino.html
